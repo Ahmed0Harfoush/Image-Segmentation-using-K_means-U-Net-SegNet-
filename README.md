@@ -9,7 +9,7 @@ Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/image-segmentation-w
 2. U-Net:
 U-Net is a deep learning architecture designed for image segmentation, especially in medical imaging. It performs pixel-level classification, meaning it assigns a label to every pixel in an image to identify regions of interest (e.g., tumors, organs, lesions).
 
-Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/image-segmentation-with-u-net
+Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/image-segmentation-with-u-net                             
 Kaggle Competition: https://www.kaggle.com/code/ahmed1harfoush/hacking-the-human-vasculature-in-3d-u-net-model
 
 3. SegNet:
