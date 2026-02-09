@@ -15,7 +15,7 @@ Kaggle Competition:
 3. SegNet:
 SegNet is a deep learning architecture for semantic image segmentation. It classifies each pixel in an image, assigning it to a specific class, but differs from U-Net in how it reconstructs the segmented image.
 
-Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/skin-lesion-segmentation-using-u-net-segnet
+Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/skin-lesion-segmentation-using-u-net-segnet                                                
 Colab Notebook: https://colab.research.google.com/drive/13GMWUspo4EA-H2zDm4NtjVbAKJfPvvPS?usp=sharing
 
 ![My Image](https://media.geeksforgeeks.org/wp-content/uploads/20250822165608750974/panoptic-segmentation.webp)
